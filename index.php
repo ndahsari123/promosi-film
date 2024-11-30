@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rental Mobil</title>
+    <title>Promosi film</title>
     <link rel="stylesheet" href="Bootstrap 5/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
@@ -21,7 +21,7 @@
                 <section class="navigation-section">
                     <nav class="navbar navbar-expand-lg justify-content-end">
                         <div class="container fixed-position p-0">
-                            <a class="navbar-brand nav-position ms-2" href="#"><img src="img/logo.png" alt="Logo"></a>
+                            <a class="navbar-brand nav-position ms-2" href="#"><img src="img/logo 1.jpg" alt="Logo"></a>
                             <button class="navbar-toggler mt-5" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#mynavbar">
                                 <img src="img/Toggler.png" alt="">
@@ -29,20 +29,20 @@
                             <div class="collapse navbar-collapse justify-content-end" id="mynavbar">
                                 <ul class="navbar-nav nav ms-auto navbar-right">
                                     <li class="nav-item ms-4">
-                                        <a class="nav-link nav-position" href="#our-services-section">Our Services</a>
+                                        <a class="nav-link nav-position" href="#our-services-section">Beranda</a>
                                     </li>
                                     <li class="nav-item ms-4">
-                                        <a class="nav-link nav-position" href="#why-us-section">Why Us</a>
+                                        <a class="nav-link nav-position" href="#why-us-section">Film saya</a>
                                     </li>
                                     <li class="nav-item ms-4">
                                         <a class="nav-link nav-position" href="#testimony-section">Testimonial</a>
                                     </li>
                                     <li class="nav-item ms-4">
-                                        <a class="nav-link nav-position" href="#faq-section">FAQ</a>
+                                        <a class="nav-link nav-position" href="#faq-section">Hubungi Kami</a>
                                     </li>
                                     <li class="nav-item ms-4">
                                         <a class="nav-link nav-position p-0" href="#"><button
-                                                class="btn-register">Register</button></a>
+                                                class="btn-register">Langganan</button></a>
                                     </li>
                                 </ul>
 
@@ -118,68 +118,44 @@
         <p>Jelajahi lebih lanjut kumpulan film & acara TV minggu ini. Pastikan anda tidak ketinggalan untuk menonton</p>
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
+                <a href="detile/Detail 2.php">
                 <div class="card">
                     <img src="img/gambar 6.webp" class="icon-why-us" alt="icon complete">
-                    <h4>Top 10 movies this week</h4>
+                    <h4>Top 10 film paling populer</h4>
                      <p>Simak film-film paling populer minggu ini dan cari tahu di mana Anda bisa menontonnya.</p>
                 </div>
+                </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
-                <div class="card">
-                    <img src="img/gambarr 8.webp" class="icon-why-us" alt="icon Price">
-                    <h4>Top 10 TV shows this week</h4>
-                    <p>Jelajahi acara TV paling populer minggu ini dan cari tahu di mana Anda dapat menontonnya.</p>
-                </div>
+                <a href="detile/detail-1.php">
+                    <div class="card">
+                        <img src="img/gambarr 8.webp" class="icon-why-us" alt="icon Price">
+                        <h4> Top 10 Acara TV teratas minggu ini</h4>
+                        <p>Jelajahi acara TV paling populer minggu ini dan cari tahu di mana Anda dapat menontonnya.</p>
+                    </div>
+                </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
+                <a href="detile/detail 3.php">
                 <div class="card">
                     <img src="img/avatar 2.webp" class="icon-why-us" alt="24">
-                    <h4>New movies</h4>
+                    <h4>Film Terbaru</h4>
                     <p>Lihatlah setiap film baru yang baru-baru ini tersedia di layanan streaming.</p>
                 </div>
+                </a>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
+                <a href="detile/detail 4.php">
                 <div class="card">
                     <img src="img/acara baru.webp" class="icon-why-us" alt="icon">
-                    <h4>New TV Shows</h4>
+                    <h4>Acara TV</h4>
                     <p>Lihatlah setiap acara TV baru yang baru-baru ini tersedia di layanan streaming.</p>
                 </div>
+                </a>
             </div>
         </div>
     </section>
-    <section class="why-us-section" id="why-us-section"></section>
-        
-        <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
-                <div class="card">
-                    <img src="img/slide 1.jpeg" class="icon-why-us" alt="icon complete">
-                    <h4>Top 10 movies this week</h4>
-                     <p>Simak film-film paling populer minggu ini dan cari tahu di mana Anda bisa menontonnya.</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
-                <div class="card">
-                    <img src="img/gambarr 8.webp" class="icon-why-us" alt="icon Price">
-                    <h4>Top 10 TV shows this week</h4>
-                    <p>Jelajahi acara TV paling populer minggu ini dan cari tahu di mana Anda dapat menontonnya.</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
-                <div class="card">
-                    <img src="img/avatar 2.webp" class="icon-why-us" alt="24">
-                    <h4>New movies</h4>
-                    <p>Lihatlah setiap film baru yang baru-baru ini tersedia di layanan streaming.</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-12 mb-4 center-div">
-                <div class="card">
-                    <img src="img/acara baru.webp" class="icon-why-us" alt="icon">
-                    <h4>New TV Shows</h4>
-                    <p>Lihatlah setiap acara TV baru yang baru-baru ini tersedia di layanan streaming.</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <div class="container">
         <section class="our-services-section" id="our-services-section">
@@ -192,9 +168,10 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 v-center">
                     <div class="desc-service">
                         <h2>Telusuri film & acara TV terbaru,populer dan yang akan datang.</h2>
-                        <p>Sewa mobil di (Lokasimu) bersama Binar Car Rental jaminan harga lebih murah dibandingkan yang
-                            lain, kondisi mobil baru, serta kualitas pelayanan terbaik untuk perjalanan wisata, bisnis,
-                            wedding, meeting, dll.</p>
+                        <p>Menampilkan berbagai film-film terbaru dan kekinian tanpa adanya gangguan iklan,
+                            selain film ada banyak lagi acara tv lainnya. Tunggu apalagi pilih film yang mau 
+                            anda tonton sekarang juga.
+                        </p>
                         <ul>
                             <li>10 film teratas minggu ini</li>
                             <li>10 acara TV  teratas minggu ini</li>
@@ -233,10 +210,11 @@
                                         <img src="img/Star.svg" alt="star">
                                     </div>
 
-                                    <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”</p>
-                                    <h5>John Dee 32, Bromo</h5>
+                                    <p>wah bagus sekali situs ini, mempermudahkan banget buat saya mencari
+                                        film kesukaan saya dan sedikit tidak ada gangguan karena iklan yang sedikit 
+                                        jadi mempermudah saya untuk menikmati streaming film terbaru.
+                                    </p>
+                                    <h5>Alfatih43, bromo</h5>
                                 </div>
                             </div>
                         </div>
@@ -259,10 +237,9 @@
                                         <img src="img/Star.svg" alt="star">
                                     </div>
 
-                                    <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”</p>
-                                    <h5>John Dee 32, Bromo</h5>
+                                    <p>"Situs ini sangat informatif! Ulasan filmnya membantu saya menemukan film-film berkualitas.
+                                        Saya suka fitur rekomendasi yang disediakan. Selalu ada film baru yang menarik untuk ditonton!"</p>
+                                    <h5>Nadinda Rahma01,Jawa Timur</h5>
                                 </div>
                             </div>
                         </div>
@@ -285,10 +262,9 @@
                                         <img src="img/Star.svg" alt="star">
                                     </div>
 
-                                    <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”</p>
-                                    <h5>John Dee 32, Bromo</h5>
+                                    <p>"Navigasi yang mudah membuat saya betah berlama-lama di sini. Saya bisa menemukan film favorit dengan cepat.
+                                        Koleksi filmnya sangat beragam! Dari klasik hingga film terbaru, semuanya ada di sini"</p>
+                                    <h5>Johan aditama, Bandung</h5>
                                 </div>
                             </div>
                         </div>
@@ -311,10 +287,10 @@
                                         <img src="img/Star.svg" alt="star">
                                     </div>
 
-                                    <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”</p>
-                                    <h5>John Dee 32, Bromo</h5>
+                                    <p>"Situs ini luar biasa! Koleksi filmnya sangat lengkap dan selalu diperbarui.
+                                        Saya selalu menemukan film menarik untuk ditonton.jangan sampe kalian melewatinya
+                                        karena ini situs terbaik dari yang lain."</p>
+                                    <h5>Kimberly, Jakarta</h5>
                                 </div>
                             </div>
                         </div>
@@ -337,10 +313,10 @@
                                         <img src="img/Star.svg" alt="star">
                                     </div>
 
-                                    <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod”</p>
-                                    <h5>John Dee 32, Bromo</h5>
+                                    <p>"Banyak sekali rekomendasi film yang diberikan.
+                                        Selalu tepat sasaran dan membuat saya menemukan banyak film yang sebelumnya tidak saya ketahui
+                                        Streaming di situs ini sangat lancar! jadi saya bisa menikmati film tanpa gangguan."</p>
+                                    <h5>Putri jihan, Kudus</h5>
                                 </div>
                             </div>
                         </div>
@@ -383,8 +359,10 @@
                 <div class="col-12">
                     <div class="call-to-action text-center">
                         <h1>Temukan film & acara TV terbaik di semua layanan streaming favorit Anda</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>Pastikan anda tidak kelewatan dalam acara streming film dan acara favorit anda.
+                            Serta banyak hal-hal yang terbaru yang belum anda ketahui dan tanpa adanya
+                            iklan yang menggangu kalian saat menonton.
+                        </p>
                         <button class="btn-rent-now">start watching</button>
                     </div>
                 </div>
@@ -408,21 +386,21 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
                                             aria-expanded="false" aria-controls="flush-collapseOne">
-                                            Apa saja syarat yang dibutuhkan?
+                                            Apa sih manfaat dari situs streaming film ini?
                                         </button>
                                     </h2>
                                     <div id="flush-collapseOne" class="accordion-collapse collapse"
                                         aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">Lorem ipsum dolor sit amet consectetur, adipisicing
-                                            elit. Perspiciatis dicta, aspernatur eum quas magnam quisquam facilis
-                                            quibusdam
-                                            molestiae adipisci amet voluptatibus dolore velit consequatur a nobis,
-                                            tempora
-                                            cumque qui vero! Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                                            Obcaecati nostrum eius corrupti, modi voluptates dolorum odio blanditiis
-                                            dicta
-                                            numquam, architecto ut beatae eos? Fugit quasi, consequatur itaque voluptas
-                                            autem ipsum.</div>
+                                        <div class="accordion-body">1. Akses Mudah: Pengguna bisa menonton film kapan saja dan di mana saja
+                                            dengan koneksi internet, tanpa perlu mengunduh atau membeli DVD.
+                                            2. Koleksi Luas: Banyak situs streaming menawarkan berbagai genre dan judul film,
+                                             dari klasik hingga terbaru, memberi pilihan yang beragam.
+                                            3. Rekomendasi Personalisasi: Algoritma cerdas dapat merekomendasikan film berdasarkan tontonan sebelumnya,
+                                             membantu pengguna menemukan konten baru yang sesuai dengan selera mereka.
+                                            4. Bebas Iklan (biasanya): Banyak layanan streaming premium menawarkan pengalaman menonton tanpa gangguan iklan,
+                                            membuat pengalaman menonton lebih menyenangkan.
+                                            
+                                            </div>
                                     </div>
                                 </div>
                             </div>
@@ -433,16 +411,14 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo"
                                             aria-expanded="false" aria-controls="flush-collapseTwo">
-                                            Berapa hari minimal sewa mobil lepas kunci?
+                                            Apakah di situs ini membayar atau gatis?
                                         </button>
                                     </h2>
                                     <div id="flush-collapseTwo" class="accordion-collapse collapse"
                                         aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing
-                                            elit.
-                                            Vel alias obcaecati aut voluptatum explicabo numquam dolorum dolores
-                                            laudantium
-                                            dolorem! Vitae debitis nobis molestiae minus adipisci quo iste in eum aut?
+                                        <div class="accordion-body">Tentu saja disitus streaming film dan rekomendasi 
+                                            ini selalu ada yang membayar dan jarang ada yang gratis. serta ada yang ada
+                                            film lainnya yang belum terliris.
                                         </div>
                                     </div>
                                 </div>
@@ -454,17 +430,14 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#flush-collapseThree"
                                             aria-expanded="false" aria-controls="flush-collapseThree">
-                                            Berapa hari sebelumnya sabaiknya booking sewa mobil?
+                                            Apakah di situs ini banyak iklannya?
                                         </button>
                                     </h2>
                                     <div id="flush-collapseThree" class="accordion-collapse collapse"
                                         aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing
-                                            elit.
-                                            Modi dolore, asperiores beatae dolores consequatur possimus facere? Modi quo
-                                            cupiditate quidem amet itaque nihil. Vero fugiat reprehenderit, odit
-                                            excepturi
-                                            sint amet.</div>
+                                        <div class="accordion-body">Disitus kami ini tidak memperbanyak iklan jadi kalian
+                                            bisa menikmati nonton film kesukaan kalian tanpa ada gangguan
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -475,7 +448,7 @@
                                         <button class="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#flush-collapseFour"
                                             aria-expanded="false" aria-controls="flush-collapseFour">
-                                            Apakah Ada biaya antar-jemput?
+                                            Apakah Ada biaya an
                                         </button>
                                     </h2>
                                     <div id="flush-collapseFour" class="accordion-collapse collapse"
@@ -526,8 +499,8 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                     <div class="address">
-                        <h5>Jalan Suroyo No. 161 Mayangan Kota Probolonggo 672000</h5>
-                        <h5>binarcarrental@gmail.com</h5>
+                        <h5>Jalan Raden Patah NO.180, GROBOGAN,JAWA TENGAH</h5>
+                        <h5>Loremipsum@gmail.com</h5>
                         <h5>081-233-334-808</h5>
                     </div>
                 </div>
@@ -535,17 +508,17 @@
                     <div class="navigation">
                         <ul>
                             <li>
-                                <a href="#">Our services</a>
+                                <a href="#">Beranda</a>
                             </li>
                             <li>
-                                <a href="#">Why Us</a>
+                                <a href="#">Film saya</a>
                             </li>
                             <li>
                                 <a href="#">Testimonial</a>
                             </li>
 
                             <li>
-                                <a href="#">FAQ</a>
+                                <a href="#">Hubungi Kami</a>
                             </li>
                         </ul>
                     </div>
@@ -574,8 +547,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                     <div class="copyright">
-                        <h5>Copyright Binar 2022</h5>
-                        <img src="img/logo.png" alt="Binar Academy">
+                        <h5>Binerly Film</h5>
+                        <img src="img/logo 1.jpg" >
                     </div>
                 </div>
             </div>
